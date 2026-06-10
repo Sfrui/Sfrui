@@ -120,6 +120,20 @@ motto: "Code with purpose, build with passion."
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### <img src="https://media.giphy.com/media/l4KhWUa0MPQzQXhTa/giphy.gif" width="25" /> StackSnap
+> AI-powered full-stack code generator CLI. Select a scene, generate models, routes and pages with one command.
+
+**Tech:** `TypeScript` `Node.js` `CLI` `AI`
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sfrui/stacksnap)
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
